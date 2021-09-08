@@ -22,7 +22,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O Game Mata Mosquito **Spotify**  foi criado dentro do curso **Desenvolvimento Web Completo 2021**  com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+O Game **Mata Mosquito**  foi criado dentro do curso **Desenvolvimento Web Completo 2021**  com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
 
 ---
